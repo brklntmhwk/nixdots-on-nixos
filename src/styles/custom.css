@@ -1,3 +1,4 @@
 :root {
   --sl-color-accent: hsl(243, 73%, 70%) !important;
+  --sl-color-accent-high: hsl(243, 85%, 85%) !important;
 }
