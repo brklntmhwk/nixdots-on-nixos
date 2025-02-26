@@ -1,5 +1,5 @@
 {
-  "name": "nixdots-with-nixos",
+  "name": "nixdots-on-nixos",
   "description": "A hands-on tutorial of NixDots(Dotfiles cultivation with Nix) on NixOS",
   "author": "brklntmhwk",
   "type": "module",
