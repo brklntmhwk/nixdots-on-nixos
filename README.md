@@ -2,4 +2,4 @@
 
 "NixDots" is a coined term that consists of "Nix" and "Dotfiles" alluding to the Dotfiles cultivation using Nix.
 
-If you're interested in both of them and want to have your own "castle" on NixOS, you've come to the right place.
+Are you interested in both of them? Do you want to have your own "castle" on NixOS? If so, this book might help you build it, for that's the raison d'être of this book.
